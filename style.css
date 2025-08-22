@@ -70,8 +70,6 @@ footer {
       text-align: center;
 }
 @media screen and (max-width: 834px) {
-
-  「flex-direction: column;」
  
   .flex {
     flex-direction: column;
