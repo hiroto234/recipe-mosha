@@ -69,3 +69,14 @@ footer {
       margin: 0 8px;
       text-align: center;
 }
+@media screen and (max-width: 834px) {
+
+  「flex-direction: column;」
+ 
+  .flex {
+    flex-direction: column;
+  }
+  .flex li {
+    width: 100%;
+  }
+}
